@@ -771,24 +771,35 @@ ADDENDUM: ARTIFACTS (YES, ACTUAL ONES)
 Somewhere in the middle of all that, we did in fact produce real, citable artifacts. This is the boring part where we tell you where they live. What follows is not metaphor.
 
 Artifact 1
+
 EFT-HCI — Canonical Release (2025)
+
 (Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective repository.)
 
 Artifact 2
+
 SUNO Driver’s Guide — A Practical Guide to Working With Generative Music (2025)
+
 (Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective repository.)
 
 Artifact 3
+
 WE ARE NOT OKAY (WANOK) — Observations From the Breakroom (2025)
+
 A ROS Collective project. Short-form cultural diagnostics and lived humor.
+
 (Released under CC BY-SA 4.0. Public GitHub repository.)
 
 Artifact 4
+
 On Intelligence, Power, and the Error of Attribution: On Misrecognition and Restraint (2026)
+
 (Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective repository.)
 
-Artifact 5  
+Artifact 5
+
 ROS Collective Writings v0.1 (2026)  
+
 Released under CC BY-SA 4.0. See public Zenodo record and GitHub ROSCollective repository.
 
 
