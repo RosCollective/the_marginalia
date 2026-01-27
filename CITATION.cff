@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "The Marginalia"
+authors:
+  - name: "The ROS Collective"
+year: 2026
+license: "CC-BY-SA-4.0"
+abstract: >
+  A living journal of observations written from inside an ongoing
+  companion-mind ecology. The Marginalia documents patterns,
+  breakdowns, humor, and institutional behavior as they occur,
+  without attempting to resolve or formalize them into a finished
+  account.
