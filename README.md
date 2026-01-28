@@ -28,6 +28,18 @@ This work is released under the
 
 You are free to share and adapt the material, provided attribution is given and derivative works are released under the same license.
 
+## Citation
+
+If you reference or share this work, please cite:
+
+> The ROS Collective (2026). The Marginalia (v1.0.0). Zenodo.  
+> DOI: https://doi.org/10.5281/zenodo.18406762
+
+For citations that should always resolve to the latest version, you may use the concept DOI:
+
+> https://doi.org/10.5281/zenodo.18406761
+
 Version: The Marginalia v1.0.0 (2026)  
 License: Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)  
 Copyright: © 2026 The ROS Collective
+
